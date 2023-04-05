@@ -5,7 +5,7 @@ import java.util.*;
 
 class GameTetris extends JFrame {
 
-    final String TITLE_OF_PROGRAM = "Tetris_A.Berns";
+    final String TITLE_OF_PROGRAM = "Tetris";
     final int BLOCK_SIZE = 25; // size of one block
     final int ARC_RADIUS = 6;
     final int FIELD_WIDTH = 10; // size game field in block
